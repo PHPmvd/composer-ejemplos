@@ -1,4 +1,6 @@
-composer-ejemplos
+Composer
 =================
 
-Ejemplos de utilización de composer
+Links:
+* http://getcomposer.org/
+* http://av4tar.com/composer-intro/
